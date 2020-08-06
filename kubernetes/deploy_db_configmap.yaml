@@ -39,4 +39,4 @@ spec:
               valueFrom:
                 configMapKeyRef:
                   name: db-config
-                  key: datasource.password  
+                  key: datasource.password    
